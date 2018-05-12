@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5594'
     url: http://www.gutenberg.org/2009/agents/5594
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14610#Miss-Elliot-s-Girls--13-Stories-of-Beasts-Birds-and-Butterflies
 gutenberg_issued: '2005-01-06'
 gutenberg_type: Text
 identifiers:
