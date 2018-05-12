@@ -1,0 +1,29 @@
+_repo: Miss-Elliot-s-Girls--13-Stories-of-Beasts-Birds-and-Butterflies_14610
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14610-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Corning, Mary Spring
+    gutenberg_agent_id: '5594'
+    url: http://www.gutenberg.org/2009/agents/5594
+description: ''
+gutenberg_issued: '2005-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcsh 'Insects -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Invalids -- Juvenile fiction'
+title: "Miss Elliot's Girls\r\nStories of Beasts, Birds, and Butterflies"
+url: http://www.gutenberg.org/ebooks/14610
